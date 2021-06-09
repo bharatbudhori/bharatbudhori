@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bharat Budhori</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bharat Budhori</h1>
 <h3 align="center">A passionate android developer, and machine learning enthusiastic from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatbudhori&label=Profile%20views&color=0e75b6&style=flat" alt="bharatbudhori" /> </p>
+<p align="left">   <img src="https://komarev.com/ghpvc/?username=bharatbudhori&label=Profile%20views&color=0e75b6&style=flat" alt="bharatbudhori" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/bharat_budhori" target="blank"><img src="https://img.shields.io/twitter/follow/bharat_budhori?logo=twitter&style=for-the-badge" alt="bharat_budhori" /></a> </p>
 
 - 🔭 I’m currently working on **Android development using flutter and firebase**
 

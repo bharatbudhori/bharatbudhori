@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatbudhori&label=Profile%20views&color=0e75b6&style=flat" alt="bharatbudhori" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning using Google Colaber and firebase**
+- 🔭 I’m currently working on **Machine Learning using Google Colab and firebase**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning and DSA**
 
 - 👯 I’m looking to collaborate on **Android development projects**
 

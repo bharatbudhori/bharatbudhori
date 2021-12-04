@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatbudhori&label=Profile%20views&color=0e75b6&style=flat" alt="bharatbudhori" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning using Google Colab and firebase**
+- 🔭 I’m currently working on **Machine Learning using Google Colaboratory and firebase**
 
 - 🌱 I’m currently learning **Deep Learning and DSA**
 
@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bharat-budhori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharat-budhori" height="30" width="40" /></a>
 <a href="https://instagram.com/bharat_budhori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharat_budhori" height="30" width="40" /></a>
+<a href="https://leetcode.com/bharat_budhori/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="bharat_budhori" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bharatbudhori17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bharatbudhori17" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bharatbudhori17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bharatbudhori17" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/Zealousideal-Hunt953" target="blank"><img align="center" src="https://www.svgrepo.com/show/299430/reddit.svg" alt="bharatbudhori17" height="30" width="40" /></a>

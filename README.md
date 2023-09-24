@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Bharat Budhori</h1>
-<h3 align="center">A passionate android developer, and machine learning enthusiastic from India.</h3>
+<h3 align="center">A passionate android, web developer, and machine learning enthusiastic from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatbudhori&label=Profile%20views&color=0e75b6&style=flat" alt="bharatbudhori" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning using Google Colaboratory and firebase**
+- 🔭 I’m currently working on **Plane, which helps you track your issues, epics, and product roadmaps in the simplest way possible**
 
-- 🌱 I’m currently learning **Deep Learning and DSA**
+- 🌱 I’m currently learning **Solidity and Web3**
 
-- 👯 I’m looking to collaborate on **Android development projects**
+- 👯 I’m looking to collaborate on **Android and web development projects**
 
-- 👀 I’m interested in **making adaptive and responsive UI, android development, and in making ML models and custom backend with Django or Node JS**
+- 👀 I’m interested in **making adaptive and responsive UI, android development, web development, Web3 technologies like Ehterium, Blockchain and Solidity**
 
-- 💬 Ask me about **Python, dart, flutter, DSA, C++**
+- 💬 Ask me about **Python, dart, flutter, DSA, C++, React, Node**
 
-- 📫 How to reach me **mail- bharatbudhori17@gmail.com, LinkedIn- www.linkedin.com/in/bharat-budhori-89b522209**
+- 📫 How to reach me **mail- bharatbudhori17@gmail.com, LinkedIn- www.linkedin.com/in/bharat-budhori**
 
-- ⚡ Fun fact **I love listening to Pop music.**
+- ⚡ Fun fact **I love listening to Pop music and studying about Cosmos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://colab.research.google.com/notebooks/intro.ipynb" target="_blank"> <img src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4" alt="google colab" width="40" height="40"/> </a> <a href="https://soliditylang.org/" target="_blank"> <img src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png" alt="google colab" width="40" height="40"/> </a </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://colab.research.google.com/notebooks/intro.ipynb" target="_blank"> <img src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4" alt="google colab" width="40" height="40"/> </a> <a href="https://soliditylang.org/" target="_blank"> <img src="https://img.icons8.com/?size=256&id=m2cLk2L36CAa&format=png" alt="Solidity" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/?size=256&id=NfbyHexzVEDk&format=png" alt="React JS" width="40" height="40"/> </a> <a href="http://expressjs.com/" target="_blank"> <img src="https://img.icons8.com/?size=256&id=SDVmtZ6VBGXt&format=png" alt="Express JS" width="40" height="40"/> </a> <a href="https://nodejs.org/en" target="_blank"> <img src="https://img.icons8.com/?size=256&id=54087&format=png" alt="Node JS" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/?size=256&id=74402&format=png" alt="Mongo DB" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharatbudhori&show_icons=true&locale=en&layout=compact" alt="bharatbudhori" /></p>
 

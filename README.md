@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mail- bharatbudhori17@gmail.com, LinkedIn- www.linkedin.com/in/bharat-budhori**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tzb6lTtK9iDV_xmE0c9Hj3ipCJ2AYEJC/view?usp=sharing](https://drive.google.com/file/d/1tzb6lTtK9iDV_xmE0c9Hj3ipCJ2AYEJC/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tzb6lTtK9iDV_xmE0c9Hj3ipCJ2AYEJC/view?usp=sharing](https://drive.google.com/file/d/121QORximqadClF2cHzf-aWAVF-bEZlgS/view?usp=sharing)
 
 - ⚡ Fun fact **I love listening to Pop music and studying about Cosmos**
 
